@@ -1,0 +1,413 @@
+> 
+> 
+> 2017.12.27
+> 
+> L. Lanceri - Review of
+> B2TiP Report - Section 9, TCPV in B Decays (WG3)
+> 
+> General comments:
+> ------------------
+> - title:
+> “Time Dependent CP Violation and the determination of phi_1, phi2”
+> inconsistent use of capital letters, etc.; the time-dependent observables
+> are in fact CP asymmetries:
+> “Time-Dependent CP Asymmetries and the Determination of phi_1, phi_2”
+> 
+> - introduction:
+> 
+> (1) In the introduction the CKM triangle angles, the CP observables (asymmetries),
+> and the CP asymmetry parameters extracted from a fit are quoted
+> with numerical results before being explicitly defined
+> and referring to tables located at the end of the chapter.
+> Lines 16-28 and 50-54, reporting these results for phi_1,
+> seem more appropriate for the conclusions and
+> could be moved to section 1.6.
+> 
+> (2) One should avoid a confusion in terminology
+> among “CP observables” (“CP asymmetries” a_CP),
+> “CP parameters” S, A extracted from fits,
+> and their CKM interpretation in terms of phi_1 and phi_2.
+> (Sometimes S is called “CP asymmetry”, etc.)
+> 
+> (3) The introduction is supposed to be a general introduction?
+> apparently the determination of phi_2 is given less emphasis
+> with respect to phi_1, that has several paragraphs devoted
+> to an anticipation of quantitative extrapolation results.
+> 
+> - section 1.2.1 (theory)
+> The discussion of theoretical assumptions in different estimates
+> of DeltaS is not very transparent… (for an experimentalist reader, at least)
+> in particular it is not clear if some of the quoted theoretical models
+> may be constrained by additional measurements.
+> 
+> - section 1.5.2 (experiment, B -> KS0 pi0 gamma), lines 1225-1314
+> The quoted reconstruction efficiency (Table 23) and sensitivity for S, A parameters
+> seem to be based only on a signal MC sample: they look unrealistic,
+> since selection criteria will be probably tightened to cope with backgrounds
+> and there will be dilution factors due to backgrounds in the selected sample.
+> Apparently, systematic uncertainties are not included in the extrapolation.
+> Are these results too preliminary to be included?
+> 
+> - section 1.6 (conclusions)
+> The text should highlight some of the most relevant results on projected sensitivities
+> from Tables 26, 27 etc.: in particular lines 16-28 and 50-54 from the introduction
+> should rather be moved to the conclusions.
+> The conclusions do not include any statement on the results for K0S pi0 gamma:
+> is this because the analysis is too preliminary? should it be included at all?
+> 
+> Editing comments:
+> ------------------
+> - authors’ e-mail missing
+> - quotation of sections, figures etc. not uniform (“see sec.”, “S. Fig”, etc)
+> - “time dependent …” => “time-dependent …”
+> 
+> 1.1 Introduction
+> -----------------
+> line 8:
+> “In the presence of NewPhysics (NP) these determinations can be modified”
+> which determinations? clarify
+> 
+> line 16:
+> “time dependent” => “time-dependent”
+> “CP asymmetry S_J/psiK0…”
+> S is not the “CP asymmetry”, but one of the 2 “CP parameters”
+> extracted from a fit
+> 
+> line 18:
+> reference [1] incomplete? (see line 1346)
+> “(S. Table 26)”
+> S. ?
+> 
+> line 23:
+> “(S. Tables 20 and 21)”
+> S. ?
+> 
+> line 24:
+> “time dependent CP asymmetry S_pi0pi0”
+> again confusion asymmetry/parameter…
+> 
+> line 25:
+> “B->pipi system”, “the systems…”
+> “system”, “systems”? => decays
+> 
+> line 27:
+> “SM uncertainties”
+> theoretical uncertainties within the SM predictions
+> 
+> lines 29-…
+> “The general strategies… “, etc.
+> these definitions should be given before line 15-28
+> 
+> line 34:
+> “decay width can be safely…”
+> “decay width difference…” (or: decay width splitting)
+> 
+> line 40:
+> what about phi_2 ?
+> this is supposed to be a general introduction
+> for the determination of phi_1 and phi_2
+> 
+> line 42-43
+> “the complete analysis chain, … is performed.”
+> the complete analysis… is performed
+> 
+> line 47:
+> “to the Belle II ones”
+> to Belle II
+> 
+> lines 50-54 and Fig.1
+> why in the introduction?
+> (detailed quantitative results could be moved to the conclusions)
+> 
+> 
+> 1.2.1 Determination of phi_1 (theory, b->cssbar)
+> -------------------------------------------------
+> in between lines 60-61:
+> formatting problems?
+> 
+> line 61:
+> “CP asymmetry S_f”
+> CP parameter S_f
+> “measures the sum of the mixing phase - phi_1… etc”
+> ?
+> 
+> Fig. 2 caption:
+> “Sample diagrams”
+> Examples of diagrams
+> 
+> line 65:
+> “see also Fig.2”
+> as exemplified in Fig.2
+> 
+> line 66:
+> “one has”
+> then
+> 
+> line 67:
+> “direct CP asymmetry C_f”
+> direct CP parameter C_f
+> 
+> line 72:
+> “NP in mixing”
+> mixing? interference between mixing and decays to CP eigenstates?
+> 
+> line 73:
+> “penguin pollution”
+> put it in quotes?
+> 
+> line 75:
+> “this looks plausible with theoretical methods”
+> which theoretical methods? reference?
+> 
+> line 85:
+> “to arise due to insertions… and then closing…”
+> syntax?
+> 
+> line 105:
+> “The O(1/m_c,b) correction may, however, be large”
+> arising from where? not evident in eq. (9)
+> 
+> lines 116, 120:
+> “A_u,c”, “the A_u term”
+> defined where? in equation (4) f denotes a final CP eigenstate; here?
+> 
+> 1.2.2 Experiment: sin2phi_1 from B0 -> …
+> ------------------------------------------
+> title not appropriate? some paragraphs are devoted to other b->ccs channels
+> => “from b->ccbars”
+> 
+> line 179:
+> “(see sec. ??)”
+> 
+> line 197:
+> “A precision of a few percent”
+> A relative uncertainty of …
+> 
+> line 203:
+> “applications”
+> decay channels
+> 
+> line 226:
+> “they are not as accessible experimentally”
+> “accessible”? specify
+> 
+> lines 245, 246:
+> “contribute to the major part to the yields”
+> contribute the largest fraction of the yield
+> “of about 10%”
+> by about 10%
+> 
+> line 250:
+> “what is estimated in table 4”
+> those reported in Table 4
+> 
+> line 252:
+> “may potentially also be combined”
+> may also be combined
+> 
+> 1.3.1 Theory: sin2phi_1 from…
+> -------------------------------
+> line 257:
+> “mixing phase phi_d/the angle phi_1=beta”
+> inconsistent notation?
+> 
+> line 276:
+> “(indeed, CKM combination)”
+> CKM combination = ?
+> 
+> line 287:
+> “The sine-coefficients… get shifted by…”
+> The sine-coefficients S_f … differ from sin2phi_1 by DeltaS_f:
+> 
+> Table 5:
+> inconsistent notation? “sin gamma” => “ sin phi_3”
+> 
+> eq.(18), line 349
+> gamma -> phi_3 ?
+> 
+> line 354:
+> “the small corrections”
+> which small corrections?
+> 
+> line 355:
+> “predict precisely”
+> determine?
+> 
+> line 373:
+> “nominal size”
+> nominal =?
+> 
+> line 378:
+> “very mild use of the heavy-quark expansion”
+> mild = ?
+> 
+> line 379:
+> “data-driven prediction”
+> prediction -> determination ?
+> 
+> 1.3.2 Experiment: sin 2phi_1 from…
+> -----------------------------------
+> line 385:
+> “For time dependent CP violation analysis…”
+> For the analysis of time-dependent CP asymmetries
+> 
+> line 403:
+> “equivalent luminosity sample”
+> equivalent-luminosity sample
+> 
+> lines 406-407:
+> “and variable that discriminate against backgrounds, the M_bc, Delta E, …”
+> and variables that discriminate against backgrounds: M_bc, Delta E, …
+> 
+> line 415:
+> “which is the channel…”
+> the channel
+> 
+> line 416:
+> “as used for”
+> used for
+> 
+> line 417-418:
+> “The integrated luminosity when they are comparable to the statistical ones is
+> around…”
+> They become comparable to statistical uncertainties for an integrated luminosity of
+> about…
+> 
+> line 420:
+> “we verify…”
+> we verified
+> 
+> line 427:
+> “has never been used”
+> was never used
+> 
+> Fig. 5:
+> color code only? not very visible
+> 
+> Table 6:
+> several units not shown, must be guessed
+> 
+> line 470:
+> “(see Section ??)”
+> 
+> lines 475-481:
+> references for the quoted algorithms?
+> 
+> line 560:
+> “standard flavour tagger ??”
+> 
+> line 638:
+> “iptube constraint ??”
+> 
+> Table 14:
+> eta’(rho gamma) KS^(00):
+> sigma(S_f) does not change from 1 to 5 ab^-1 ? typing error?
+> 
+> Table 15:
+> systematic uncertainties on which quantity? S?
+> 
+> 1.4.1 Theory: phi_2 from …
+> ---------------------------
+> lines 715-725:
+> it is a well-known construction, that probably does not need a tutorial:
+> however the text would be easier to read with the help of a figure.
+> 
+> lines 732:
+> “determine both, the…”
+> determine both the…
+> 
+> line 739:
+> “t-convention”
+> ref?
+> 
+> line 786:
+> “not yes”
+> not yet
+> 
+> line 812:
+> s = ?
+> 
+> 1.4.2 Experiment: sensitivity study of …
+> -----------------------------------------
+> line 899:
+> “(S. above)”
+> 
+> line 958:
+> “(S. Sec. ??)”
+> 
+> line 959:
+> “in Sec. ??”
+> 
+> line 1002:
+> “(S. Sec. ??)”
+> 
+> line 1005:
+> “we make a cut”
+> 
+> line 1009:
+> “Sec. ??”
+> 
+> line 1015:
+> “arrive to”
+> arrive at
+> 
+> line 1021:
+> “cuts”
+> 
+> line 1027:
+> “and a time dependent for…”
+> and a time-dependent analysis for…
+> 
+> line 1067:
+> “ref. [81]”
+> see references: incomplete: Belle Draft ??
+> 
+> 1.5.1 Theory: probing New Physics with…
+> -----------------------------------------
+> line 1218:
+> “quadrant-type asymmetries”
+> ?
+> 
+> line 1224:
+> “experimentally challenging”
+> that is, not feasible?? better be explicit
+> 
+> 1.5.2 Experiment: sensitivity study…
+> --------------------------------------
+> line 1272:
+> “boos axis”
+> boost axis
+> 
+> line 1274:
+> “outside of the…”
+> outside the
+> 
+> line 1283:
+> “the measurement of Delta_t finally relies on…”
+> The other contribution to the uncertainty in Delta_t measurement comes from…
+> 
+> line 1310:
+> “the impact of beam backgrounds still needs to be estimated”
+> not only beam backgrounds !!!
+> 
+> Table 25 and line 1314:
+> “we assume a reconstruction efficiency of 30%”
+> based on what? BaBar and Belle, preliminary MC, …?
+> 
+> 1.6 Conclusions
+> -----------------
+> line 1316:
+> “CP violating parameters”
+> CP-violating parameters
+> 
+> References
+> ------------
+> line 1346:
+> insert a page break?
+> 
+> reference [1]: referenced in table 26 captions as 2017 averages: 2016? incomplete?
+> HFAG?
+> 
+> line 1450:
+> “[81] M. Sevior, Belle Draft 194 ().”
+> ??

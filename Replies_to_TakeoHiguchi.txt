@@ -1,0 +1,109 @@
+> Dear authors,
+> 
+> First, I would like to congratulate the completion of writing the
+> B2TiP book by the hard working authors.
+> Please find some comments from me below.
+> 
+> 1. Line 168
+> The sentence tells about the Belle measurement but the reference [25]
+> is for the BaBar analysis.
+> Please add a couple of words here why the [25] is quoted here.
+> 
+> 2. Line 178
+> The alignment constants of the vertex detector should primarily
+> obtained from cosmic ray tracks taken in dedicated cosmic ray runs.  I
+> did not fully understand what the "using control samples" would mean.
+> 
+> 3. Line 402
+> Background charmless B decays can be CP violating, but are not always
+> so.  I read the line like that they are always CP violating.  If it is
+> not the intention, please rewrite the line.
+> 
+> 4. Line 419
+> I have not read the prior part of the book and I am not sure about
+> assumption in this book, but is there a premise that the target
+> integrated luminosity for these studies is 5 ab-1?  I just wondered
+> how the 5 ab-1 was derived and appeared here; amount of data
+> corresponding to the first one-year run, some other political reasons,
+> or some scientific reasons?
+> 
+> 5. Line 448
+> Please give the definition of the "flLenSig" in the document.
+> 
+> 6. Line 451
+> I am a bit curious about the PXD occupancy in this study.  If the PXD
+> occupancy is very high due to, for example, severe machine background,
+> most tracks can have "associated" PXD hit on the PXD sensor, and
+> therefore, requirement of an associated PXD hit to the tracks would
+> not work as a useful requirement.
+> How was the PXD occupancy was set in the study?
+> Another curios question: can the SVD take over the role of PXD in a
+> sense of the hit requirement if the PXD occupancy is very high?
+> 
+> 7. Line 480
+> Please give the definition of the "Cleo Cone" in the document.
+> 
+> 8. Line 484 and later
+> I understand that the threshold of any parameters should be chosen
+> using Sig/sqrt(Sig +Bkg).
+> The discussion here is somewhat different from the thing I wrote above.
+> Could you write a few more words that could explain the thing being
+> discussed here?
+> 
+> 9. Line 545 and many other places
+> This question should be directed to the editors, but there are some
+> analyses in the book that have not been ended yet while they are
+> fairly stated in the book that they are incomplete.  Will the book be
+> submitted to the PTEP journal as is?
+> 
+> 10. Line 600
+> It is not very trivial to me why the strategy B is the "best" since
+> both the strategies A and C also have advantage to the others.  I
+> suggest to write a bit more words here about the discussion why the
+> strategy B was favored.
+> 
+> 11. Line 603
+> It is said that the Ks reconstruction efficiency (and hence, that of
+> the modes including Ks) will be improved in Belle II because the lever
+> arm of the Belle II vertex detector ls larger than Belle.  It seems
+> the statement here is inconsistent to the thing said so far.  Does the
+> sentence really mean the Ks reconstruction efficiency will not improve
+> so much?  If so, do you have idea about what prevents the improvement?
+> 
+> 12. Line 639
+> It would be useful for readers to have information about first, second
+> and third Gaussian (mu, sigma, and fraction) rather then the overall
+> standard deviation values.
+> 
+> 13. Paragraph starting from Line 965
+> Unfortunately, I could not get the meaning of the paragraph because
+> the explanation is geometrically very complicated.  I suggest to use
+> an illustration to explain the part.
+> 
+> 14. Fig 16
+> I suggest to present pull distributions rather than the residual
+> distributions because the pull distributions should fluently tell how
+> the estimated statistical errors are correct.
+> 
+> 15. Line 1067
+> Does a fit bias exist in the fit?  If yes, is it included into
+> non-reducible uncertainties (I think a fit bias is non-reducible)?
+> 
+> 16. Paragraph starting from L1098
+> This is another difficult paragraph to me to understand.  I suggest to
+> start with the strategy to discuss the sensitivity.
+> It should also be needed to give explanation of "x_theo".  Because of
+> the chi^2 includes the "x_theo", the chi^2 looks dependent on some
+> theory models, which made me difficult to proceed with the following
+> sections.
+> 
+> 17. Line 1251
+> It might be kind of you if you could give definition of the "p-value".
+> It took a couple of minutes to me to remind it...
+> 
+> 18.  Fig 25
+> As like as Figures 6 and 12, I suggest to fit the distribution with
+> three Gaussian distributions rather than two.
+> 
+> 19. Line 1302
+> Please give the definition of the "SCET" in the document.
